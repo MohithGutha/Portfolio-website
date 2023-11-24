@@ -21,8 +21,8 @@
         display: flex;
     }
 
-    #experience, 
-    .experience-details-container {
+    #techstack, 
+    .techstack-details-container {
         margin-top: 2rem;
     }
 
@@ -92,7 +92,7 @@
         font-size: 1rem;
     }     
 
-    .experience-sub-title{
+    .techstack-sub-title{
         font-size: 1.25rem;
     }
 
